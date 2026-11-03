@@ -1,5 +1,5 @@
 package br.com.infnet.missioncontrol.model;
 
-public enum STATUS {
+public enum StatusMissao {
     CONCLUIDA, EM_ANDAMENTO, PLANEJADA
 }
