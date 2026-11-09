@@ -1,9 +1,9 @@
-package br.com.infnet.missioncontrol.controller;
+package br.com.infnet.missioncontrol.missao.controller;
 
-import br.com.infnet.missioncontrol.model.ErrorResponse;
-import br.com.infnet.missioncontrol.model.Missao;
-import br.com.infnet.missioncontrol.model.StatusMissao;
-import br.com.infnet.missioncontrol.service.MissaoService;
+import br.com.infnet.missioncontrol.missao.model.ErrorResponse;
+import br.com.infnet.missioncontrol.missao.model.Missao;
+import br.com.infnet.missioncontrol.missao.model.StatusMissao;
+import br.com.infnet.missioncontrol.missao.service.MissaoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -105,7 +105,6 @@ Design PAttern -> Injeção dependência
 IoC
 
  */
-
 
 
 

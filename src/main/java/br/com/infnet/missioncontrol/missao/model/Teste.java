@@ -1,4 +1,4 @@
-package br.com.infnet.missioncontrol.model;
+package br.com.infnet.missioncontrol.missao.model;
 
 public class Teste {
     static void main() {

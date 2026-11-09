@@ -1,7 +1,7 @@
-package br.com.infnet.missioncontrol.service;
+package br.com.infnet.missioncontrol.missao.service;
 
-import br.com.infnet.missioncontrol.model.Missao;
-import br.com.infnet.missioncontrol.model.StatusMissao;
+import br.com.infnet.missioncontrol.missao.model.Missao;
+import br.com.infnet.missioncontrol.missao.model.StatusMissao;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 

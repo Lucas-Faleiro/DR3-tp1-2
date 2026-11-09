@@ -1,4 +1,4 @@
-package br.com.infnet.missioncontrol.model;
+package br.com.infnet.missioncontrol.missao.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

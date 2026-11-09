@@ -1,4 +1,4 @@
-package br.com.infnet.missioncontrol.service;
+package br.com.infnet.missioncontrol.missao.service;
 
 import org.springframework.stereotype.Service;
 
